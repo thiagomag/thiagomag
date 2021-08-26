@@ -4,7 +4,7 @@
 - 💻 I'm a Java Developer in training at [Let´s Code](https://www.linkedin.com/school/letscodebr/) and studying Computer Engineering at [Universidade Católica de Petrópolis](https://www.ucp.br).
 - <p align="left">
   <img src="unnamed.png" width="18" alt="icone empiricus"> Internship in Back-End Java at Empiricus.</p>
-- 📚 Love to learn new things. Always reading about Tech, History and Games <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">.
+- 📚 Love to learn new things. Always reading about Tech, History and Games.
 <h2></h2>
   <div>
   <a href="https://github.com/thiagomag">
