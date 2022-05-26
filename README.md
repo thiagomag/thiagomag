@@ -1,7 +1,7 @@
 # Hi ! I'm Thiago de Oliveira Magdalena 👋 
 
   
-- 💻 I'm a Java Developer trained at [Let´s Code](https://www.linkedin.com/school/letscodebr/) and studying Computer Engineering at [Universidade Católica de Petrópolis](https://www.ucp.br).
+- 💻 I'm a Java Developer trained at [Let´s Code](https://www.linkedin.com/school/letscodebr/), Economist graduated at [Universidade Federal Fluminense](https://www.uff.br) and studying Computer Engineering at [Universidade Católica de Petrópolis](https://www.ucp.br).
 - <p align="left">
   <img src="unnamed.png" width="18" alt="icone empiricus"> Internship in Back-End Java at Empiricus.</p>
 - 📚 Love to learn new things. Always reading about Tech, History and Games.
